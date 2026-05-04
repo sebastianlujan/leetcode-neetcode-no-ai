@@ -1,4 +1,4 @@
-# leetcode-neetcode-no-ai
+# Leetcode-neetcode-no-ai
 
 AI is oversell as the key for civilization's future, but is making you weaker and soft in programming and solving skills.
 so the way i found to avoid this phenomena is to train like going to the gym, grinding leetcode DSA problems and System design ones
