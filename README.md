@@ -3,7 +3,7 @@
 AI is oversell as the key for civilization's future, but is making you weaker and soft in programming and solving skills.
 so the way i found to avoid this phenomena is to train like going to the gym, grinding leetcode DSA problems and System design ones
 
-Is really hard to not get into the dopamine trap of AI, but that is my pledge for this repository
+Is really hard to not get into the dopamine trap of AI, but that's my pledge for this repository
 
 "Simple is better than complex"
 following this [Probably core values/zen](https://github.com/rust-lang/rust/issues/15264#issue-36779083)!
