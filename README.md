@@ -19,5 +19,5 @@ This isn't finished (TODO: Remove when no longer applicable)
 Have fun!
 ```
 
-We shall contemplate truth by testing reality
+We shall contemplate truth by testing reality,
 Mountains are merely mountains
